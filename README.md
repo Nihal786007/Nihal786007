@@ -59,14 +59,17 @@ Building software today to engineer intelligent robots tomorrow.
   <img src="https://github-readme-stats.vercel.app/api?username=Nihal786007&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal786007&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Nihal786007&theme=tokyonight&hide_border=true"/>
 </p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nihal786007&theme=tokyonight"/>
 </p>
+
 ⭐ Thanks for visiting my profile!
