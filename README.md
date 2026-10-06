@@ -1,75 +1,109 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nihal+Arfain+Ahmed;Aspiring+Robotics+Engineer;React+%7C+TypeScript+Developer;Building+LifeOS;Future+Robotics+Researcher" />
-</p>
-<h1 align="center">Hi 👋, I'm Nihal Arfain Ahmed</h1>
+# Nihal Arfain Ahmed
 
-<h3 align="center">
-Aspiring Robotics Engineer | React & AI Developer | Future Robotics Researcher
-</h3>
+**Aspiring Robotics + AI Engineer**
 
-<p align="center">
-Building software today to engineer intelligent robots tomorrow.
-</p>
+Building intelligent systems that connect software reasoning with real-world action.
 
----
+Robotics · Artificial Intelligence · Embedded Systems · Intelligent Agents
 
-## 🚀 About Me
+## About
 
-- 🌱 Building **LifeOS**
-- 🤖 Learning Robotics, AI, React, TypeScript, Python & C++
-- 📚 Preparing for **Fall 2027 US Admissions**
-- 🎯 Dream Universities: MIT • Stanford • Carnegie Mellon
-- 📍 Bengaluru, India
+I'm preparing for undergraduate study in robotics and AI, learning by building systems that have to work beyond a tutorial. My projects connect two interests: human-centered software that helps people act intentionally, and embedded hardware that senses and moves in the physical world.
 
----
+My long-term direction is intelligent robotic systems—with reliable control, understandable reasoning, and clear boundaries around what automation is allowed to do.
 
-## 💻 Tech Stack
+## Flagship projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### [LifeOS](https://github.com/Nihal786007/LifeOS)
 
----
+*A personal operating system for planning, execution, focus, reflection, and permissioned intelligent actions.*
 
-## 🚀 Current Projects
+**Problem:** Plans, daily work, and reflection often live in disconnected tools.
 
-- 🌟 LifeOS
-- 🤖 Apex Robotics
-- 🧠 AI Projects
-- 🌐 Portfolio Website (Coming Soon)
+**What I'm building:** A connected workflow from Life Goals → Monthly Outcomes → Weekly Focus → Tasks, supported by a Daily Command Center, Habits, Analytics, Reviews, and timestamp-correct Focus Mode. Reality Mirror compares intended priorities with recorded attention rather than treating completed checkboxes as the whole picture.
 
----
+**Engineering depth:**
 
-## 🎯 2026 Goals
+- Canonical domain ownership, trusted execution engines, and account-scoped repositories.
+- Supabase Auth/RLS and per-user PowerSync databases, with offline/reconnect and explicit adoption/recovery boundaries.
+- Deterministic ATLAS Fact Core and validated citations; Memory remains non-citable context.
+- Action + Permission Engine: strict candidate validation → proposal → explicit approval → trusted execution.
+- Google Calendar reads and exact-payload-approved event creation, separate from LifeOS Tasks.
+- Deterministic regression tests, separate Node/browser typechecking, and Light / Dark / System appearance.
 
-- ✅ Build 10+ React Projects
-- ✅ Learn ROS2
-- ✅ Master Python
-- ✅ Build Robotics Portfolio
-- ✅ Contribute to Open Source
-- ✅ Prepare for US University Applications
+**Status:** Working web application under active development. Hosted AI adapters are being evaluated; no production provider has been selected.
 
----
-## 📊 GitHub Stats
+**Tech:** TypeScript · React · Vite · Tailwind CSS · Supabase · PowerSync · OAuth
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nihal786007&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal786007&layout=compact&theme=tokyonight" height="170"/>
-</p>
+[Explore the repository](https://github.com/Nihal786007/LifeOS)
 
-## 🔥 GitHub Streak
+<details>
+<summary>See LifeOS — Daily Command Center and Reality Mirror</summary>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Nihal786007&theme=tokyonight&hide_border=true"/>
-</p>
+![LifeOS Daily Command Center](assets/lifeos-dashboard-light.jpg)
 
-## 🏆 GitHub Trophies
+![LifeOS Reality Mirror setup](assets/lifeos-reality-mirror-light.jpg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nihal786007&theme=tokyonight"/>
-</p>
+Real light-mode screenshots of an empty workspace. No personal account details, fabricated activity, or model-generated results are shown.
 
-⭐ Thanks for visiting my profile!
+</details>
+
+### [APEX](https://github.com/Nihal786007/Apex)
+
+*A ground-up robotics platform focused on sensing, movement, embedded control, and future autonomous behavior.*
+
+**Problem:** Understanding robotics requires integrating firmware, electronics, power, and physical behavior—not just running code.
+
+**What I'm building:** An ESP32-based platform through iterative wiring, firmware, and hardware tests. Documented progress includes ESP32 bring-up, the first blink test, serial-driver troubleshooting, and motor-driver/movement testing.
+
+**Hardware direction:** ESP32 DevKit, TB6612FNG, four TT motors, HC-SR04, IR sensors, MG90S servo, OLED, and custom power distribution using an LM2596. This describes the build direction, not a claim that every subsystem is integrated.
+
+**Status:** Early hardware/embedded development. Autonomous navigation, vision, and AI control remain future work.
+
+**Tech:** ESP32 · C/C++ · Arduino IDE · Electronics · Git
+
+[Explore the repository](https://github.com/Nihal786007/Apex) · [Read the first engineering log](https://github.com/Nihal786007/Apex/blob/main/progress/Session_01_ESP32_First_Blink/Session_01_Notes.md)
+
+## Current focus
+
+- Developing LifeOS while preserving its data, evidence, and approval boundaries.
+- Building APEX through small, documented hardware and firmware experiments.
+- Strengthening foundations in robotics, AI, embedded programming, and control.
+- Preparing for undergraduate study in Robotics / AI.
+
+## Engineering interests
+
+Robotics · Artificial Intelligence · Embedded Systems · Autonomous Systems
+
+Intelligent Agents · Human–Computer Interaction · Computer Vision · Control Systems
+
+These are areas I'm working toward, not claims of mastery.
+
+## Technical toolkit
+
+| Area | Tools and experience |
+| --- | --- |
+| Application engineering | TypeScript, React, Vite, Tailwind CSS |
+| Data and integration | Supabase, PowerSync, REST APIs, OAuth |
+| Embedded development | C/C++, ESP32, Arduino IDE, electronics and hardware troubleshooting |
+| Development practice | Git/GitHub, deterministic tests, typed boundaries, iterative debugging |
+
+I'm also strengthening Python alongside robotics and AI fundamentals.
+
+## Engineering principles
+
+- Architecture before shortcuts.
+- Test before trust.
+- Keep automated reasoning explainable and grounded.
+- Require explicit approval for consequential actions.
+- Build → test → learn → improve.
+
+## Selected GitHub work
+
+[LifeOS — software, intelligence, and systems](https://github.com/Nihal786007/LifeOS)
+
+[APEX — embedded development and robotics](https://github.com/Nihal786007/Apex)
+
+## Connect
+
+Find my projects and reach out through [GitHub](https://github.com/Nihal786007).
